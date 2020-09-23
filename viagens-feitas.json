@@ -1,0 +1,61 @@
+[
+    {
+      "Viagem": "Porto de Galinhas-PE",
+      "Sensação ao lembrar": "Amor", 
+      "Com quem estava": "Deb"
+    },
+
+    {
+        "Viagem": "Rio Grande do Sul-RS",
+        "Sensação ao lembrar": "Encantada", 
+        "Com quem estava": "Família"
+    },
+    
+    {
+        "Viagem": "Rio de Janeiro-RJ",
+        "Sensação ao lembrar": "Liberdade", 
+        "Com quem estava": "Sozinha"
+    },
+
+    {
+        "Viagem": "Salvador-BA",
+        "Sensação ao lembrar": "Transtorno", 
+        "Com quem estava": "Amigos"
+    },
+
+    {
+        "Viagem": "São Paulo-SP",
+        "Sensação ao lembrar": "Cansada de tanto andar", 
+        "Com quem estava": "Isa"
+    },
+
+    {
+        "Viagem": "Espirito Santo-ES",
+        "Sensação ao lembrar": "Correria", 
+        "Com quem estava": "Levante"
+    },
+
+    {
+        "Viagem": "Brasília-DF",
+        "Sensação ao lembrar": "Sede", 
+        "Com quem estava": "Levante"
+    },
+
+    {
+        "Viagem": "Pontas de Pedra-PE",
+        "Sensação ao lembrar": "Traquilidade", 
+        "Com quem estava": "Família"
+    },
+
+    {
+        "Viagem": "Garanhuns-PE",
+        "Sensação ao lembrar": "Lhoucura e nova fase", 
+        "Com quem estava": "Amigos"
+    },
+
+    {
+        "Viagem": "Fortaleza-CE",
+        "Sensação ao lembrar": "Liberdade", 
+        "Com quem estava": "Amigos da escola"
+    }
+]  

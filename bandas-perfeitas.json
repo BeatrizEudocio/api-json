@@ -1,0 +1,61 @@
+[
+    {
+     "Banda": "Rosa Neon",
+     "Estado": "Minas Gerais",
+     "Gênero musical": "indie pop"
+    },
+
+    {
+     "Banda": "Baiana System",
+     "Estado": "Bahia",
+     "Gênero musical": " Une o Axé, pagode baiano, rap, reggae, rap rock, dub, ijexá"
+    },
+
+    {
+     "Banda": "Martins",
+     "Estado": "Pernambuco",
+     "Gênero musical": "MPB"
+    },
+
+    {
+     "Banda": "Eddie",
+     "Estado": "Pernambuco",
+     "Gênero musical": "Rock and roll, frevo, samba, reggae"
+    },
+
+    {
+     "Banda": "Mc Tha",
+     "Estado": "Rio de Janeiro",
+     "Gênero musical": "Pop"
+    },
+    
+    {
+     "Banda": "Céu",
+     "Estado": "São Paulo",
+     "Gênero musical": "MPB, Bossa nova, Trip hop"
+    },
+
+    {
+     "Banda": "Luedji Luna",
+     "Estado": "Bahia",
+     "Gênero musical": "R&b, jazz, blues e MPB"
+    },
+
+    {
+     "Banda": "Academia da berlinda",
+     "Estado": "Pernambuco",
+     "Gênero musical": "Une a umbia, guaracha, merengue e surf music com carimbó, maracatu, ciranda e coco."
+    },
+    
+    {
+     "Banda": "Luedji Luna",
+     "Estado": "Bahia",
+     "Gênero musical": "R&b, jazz, blues e MPB"
+    },
+
+    {
+     "Banda": "Lamparina e primavera",
+     "Estado": "Minas Gerais",
+     "Gênero musical": "pop"
+    }
+]

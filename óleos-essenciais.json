@@ -1,0 +1,52 @@
+[
+    {
+        "essência": "Lavanda",
+        "benefícios": "Combate a ansiedade, insonia e dor de cabeça",
+        "Mais procurado para": "Ansiedade"
+    },
+    {
+        "essência": "Anis estrelado",
+        "benefícios": "Eliminação de gases, cólicas intestinais, antinflamatório das vias respiratórias",
+        "Mais procurado para": "Tratamento de cólica"
+    },
+    {
+        "essência": "Alecrim",
+        "benefícios": "Melhora a memória, melhora a aparência da pele, alivia sintomas de má digestão, crescimento do cabelo",
+        "Mais procurado para": "Estimular o cérebro"
+    },
+    {
+        "essência": "Laranja doce",
+        "benefícios": "Combate a gases, cólicas estomacais e intestinais, falta de apetite, prisão de ventre",
+        "Mais procurado para": "Combate a insonia, ansiedade e indigestões leves"
+    },
+    {
+        "essência": "Hortelã-pimenta",
+        "benefícios": "Desobristui as vias nasais, energiza, diminiu espasmos no estômago, vômito, enjoo, melhora a circulação sanguinea",
+        "Mais procurado para": "Aliviar dores, acalmar e combater infecções"
+    },
+    {
+        "essência": "Eucalipto",
+        "benefícios": "Beleza da pele e cabelos e doenças respiratórias",
+        "Mais procurado para": "Beleza de pele e cabelos"
+    },
+    {
+        "essência": "Palmarosa",
+        "benefícios": "Regeneração celular, hidratante, acalma emoções, eleva autoestima",
+        "Mais procurado para": "Tratamento de flacidez e rugas"
+    },
+    {
+        "essência": "Alecrim",
+        "benefícios": "Melhora a memória, melhora a aparência da pele, alivia sintomas de má digestão, crescimento do cabelo",
+        "Mais procurado para": "Estimular o cérebro"
+    },
+    {
+        "essência": "Limão siciliano",
+        "benefícios": "antisséptico, grande ação bacteriana, antivirótico, antinfeccioso, imunoestimulante",
+        "Mais procurado para": "Combater a resfriados e gargant inflamada"
+    },
+    {
+        "essência": "Melaleuca",
+        "benefícios": "Combate a fungos, bactérias, regenera machucados e cura dos tecidos",
+        "Mais procurado para": "Infecção por bactérias"
+    }
+]
